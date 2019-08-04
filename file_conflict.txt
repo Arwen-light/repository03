@@ -2,4 +2,8 @@ for text something  about conflict
 fisrt line abstract new 
 
 
+
 end change context applictionContext.xml
+
+conflict context about somethings  haha change line;
+d2837764ce524e74f8ddb9474a181dfe03e62440
